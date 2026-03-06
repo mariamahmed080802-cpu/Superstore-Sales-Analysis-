@@ -99,6 +99,9 @@ This indicates a particularly strong performance compared to other periods.
 
 This dashboard analyzes **product category and sub-category performance**.
 
+<img width="1251" height="706" alt="image" src="https://github.com/user-attachments/assets/7964b0e8-a3d7-484b-aacc-b6f90eef2206" />
+
+
 ### Top Performing Sub-Categories
 
 **By Sales**
@@ -134,6 +137,9 @@ The dashboard highlights **top-selling products** and compares their sales and p
 # Customer Segmentation
 
 This dashboard analyzes **customer purchasing behavior and profitability**.
+
+<img width="1249" height="706" alt="image" src="https://github.com/user-attachments/assets/14820407-eadf-4966-a84b-f11a03085082" />
+
 
 ### Key Metrics
 
@@ -173,6 +179,9 @@ Insights:
 # Geography Analysis
 
 This dashboard analyzes **sales performance across regions, states, and cities** to understand geographic revenue distribution and identify high-performing markets.
+
+<img width="1247" height="699" alt="image" src="https://github.com/user-attachments/assets/f9ad1d89-d69d-422a-b7e8-c7d17fb3efe0" />
+
 
 ### Sales by Region
 
